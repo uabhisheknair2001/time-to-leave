@@ -1,0 +1,3 @@
+<script type="text/javascript"> 
+    document.write(Math.pow(3, 4)); 
+</script> 
